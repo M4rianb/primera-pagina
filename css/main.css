@@ -1,0 +1,60 @@
+p{
+    color: beige;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+
+/* estilos manu hamburguesa index*/
+
+.blackc-bg{
+    background-color: rgb(46, 45, 45);
+}
+
+
+/* estilos manu hamburguesa contactos*/
+.orange-bg{
+    background-color: orange;
+}
+/* estilos manu hamburguesa productos*/
+.gris-bg{
+    background-color: gray;
+}
+/* estilos manu hamburguesa sobre nosotros*/
+.celeste-bg{
+    background-color:cadetblue;
+}
+/* estilos manu hamburguesa novedades*/
+.rosita-bg{
+    background-color:hotpink ;
+}
+/* estilos main*/
+main{
+    background-color: rgb(226, 222, 222);
+    text-decoration: dashed;
+    margin: 0;
+    padding: 0;
+}
+/* por nombre de class*/
+.parrafo{
+    color: blueviolet;
+}
+#box1{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    
+}
+/* estilos para el footer */
+footer{
+    background-color: rgb(226, 222, 222);
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer{
+    border: 1px solid transparent;
+}
